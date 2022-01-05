@@ -470,7 +470,7 @@ section .container {
 }
 
 .skills .progress-bar-wrap {
-  background: #f4f1de;
+  background: rgba(242, 204, 143, 0.09);
 }
 
 .skills .progress-bar {
